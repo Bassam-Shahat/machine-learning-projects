@@ -1,2 +1,2 @@
-# machine-learning-projects
-this Repository contains machine learning projects
+# OCR
+To extract text from an image and PDF file

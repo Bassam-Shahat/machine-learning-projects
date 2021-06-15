@@ -1,0 +1,6 @@
+pytesseract==0.3.4
+opencv-python==4.2.0.34
+
+
+
+https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i
